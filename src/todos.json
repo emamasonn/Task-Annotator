@@ -1,0 +1,27 @@
+{
+    "todos": [{
+            "title": "Task 1",
+            "responsible": "David",
+            "description": "Esta es una tarea",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Emanuel",
+            "description": "Esta es una tarea",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Negro",
+            "description": "Esta es una tarea",
+            "priority": "high"
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Negro",
+            "description": "Esta es una tarea",
+            "priority": "high"
+        }
+    ]
+}
